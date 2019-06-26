@@ -1,0 +1,18 @@
+Package: TagLoss
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Simon de Lestang
+Maintainer: Simon de Lestang <Simon.deLestang@dpird.wa.gov.au>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Depends: R (>= 2.10),
+         tidyverse, 
+         tidyr,
+         magrittr, 
+         scales,
+         graphics
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
